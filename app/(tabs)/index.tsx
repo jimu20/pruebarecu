@@ -12,26 +12,12 @@ export default function HomeScreen() {
 return ( 
 
 
-<>
+
  
       <Logo />
  
- 
-    <div className= "inse">
-      <div style={{paddingBottom: '30px' }}>
-      <Formulariocasilla  label="Usuario" />
-      </div>
-      <Formulariocasilla label="Contraseña" />
-    </div>
 
-    <div>
-      <Botoninicio /> 
-    </div>
 
-    <div>
-      <Botonesredes />
-    </div>
-</>
 
  );
 }
