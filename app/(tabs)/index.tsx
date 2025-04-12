@@ -13,9 +13,9 @@ return (
 
 
 <>
-    <div>
+ 
       <Logo />
-    </div>
+ 
  
     <div className= "inse">
       <div style={{paddingBottom: '30px' }}>
