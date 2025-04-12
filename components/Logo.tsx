@@ -1,10 +1,11 @@
- 
+import * as React from 'react';
+import { Text } from 'react-native-paper';
 function Logo () {
-  
     return ( 
 
     <div className= "logo">
-    <h1>TrueQ U</h1>
+        <Text variant="displayLarge">TrueQ U</Text>
+ 
     </div>
 
     )}

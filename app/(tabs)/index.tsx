@@ -1,7 +1,6 @@
 import { Image, StyleSheet, Platform, View } from 'react-native';
-import 'bootstrap/dist/css/bootstrap.min.css'
 
-import Form from 'react-bootstrap/Form';
+
 import Formulariocasilla from '@/components/formulariocasilla';
 import Botoninicio from '@/components/botoninicio';
 import Botonesredes from '@/components/botonesredes';

@@ -1,4 +1,4 @@
-import Form from 'react-bootstrap/Form';
+
 
 interface FormulariocasillaProps {
   label?: string;
@@ -6,7 +6,7 @@ interface FormulariocasillaProps {
 function Formulariocasilla({ label = 'Password' }: FormulariocasillaProps) {
   return (
     <>
-    
+     {/*}
       <Form.Label htmlFor="inputPassword5">{label}</Form.Label>
       <Form.Control
         type="password"
@@ -14,7 +14,7 @@ function Formulariocasilla({ label = 'Password' }: FormulariocasillaProps) {
         aria-describedby="passwordHelpBlock"
       />
   
- 
+     {*/}
     </>
   );
 }
