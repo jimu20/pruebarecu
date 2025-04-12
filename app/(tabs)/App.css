@@ -1,0 +1,51 @@
+    .inse{
+      display:flex;
+      justify-content: center;
+      flex-direction: column;
+      font-size: small;
+      background-color: white;
+      padding-top: 10%;
+      padding-left: 10%;
+      padding-right: 10%;
+      }
+
+    .botonI{
+      background-color: white;
+      padding-top: 5%;
+      padding-left: 10%;
+      padding-right: 10%;
+      }
+
+      .btn{
+        background-color: blue;
+        border-color: none;
+        font-size: small;
+      }
+    
+    .redes{
+      background-color: white;
+      padding-top: 5%;
+      padding-left: 10%;
+      padding-right: 10%;
+      padding-bottom: 10%;
+      }
+
+    .etiquetas {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      }
+
+    .logo{
+     
+      display: flex;
+      height: 200px;
+      width:100%;
+      background-color: blue;
+      align-items: center;
+      justify-content: center;
+      color:white;
+      }
+
+   
+   
